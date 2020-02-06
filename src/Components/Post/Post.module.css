@@ -1,0 +1,10 @@
+.Post {
+	padding: 10px;
+	margin: 20px auto;
+	text-align: left;
+	box-sizing: border-box;
+}
+
+.IconButtons {
+	text-align: right;
+}
